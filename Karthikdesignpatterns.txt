@@ -1,2 +1,5 @@
 repository pattern
 factory patter
+
+abstract pattern
+singleton patter
