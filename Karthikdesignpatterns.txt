@@ -1,2 +1,6 @@
+This is part 1 design patterns
+
 repository pattern
 factory patter
+
+
