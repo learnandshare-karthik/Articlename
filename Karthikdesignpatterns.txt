@@ -1,5 +1,7 @@
-repository pattern
-factory patter
+This is part 2 design patterns
 
 abstract pattern
 singleton patter
+
+
+other angular related articles
